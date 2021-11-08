@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir H., A software engineering **student** from Iran.
-- 💞️ I ♥ finding and reporting bugs and/or suggesting features.
+- 💞️ I ♥ finding and reporting bugs and/or suggesting features and discovering [useful repos](https://github.com/amirrh6?tab=stars).
 - 📫 You may reach me at amirrezahh6[at]outlook[dot]com
-
+---
 - I've opened following issues so far:
 - * https://github.com/postmanlabs/postman-app-support/issues/8991
 - * https://github.com/AHgPuK/updatebookmark/issues/6
