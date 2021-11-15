@@ -3,8 +3,8 @@
 - 📫 You may reach me at amirrezahh6[at]outlook[dot]com
 
 ```
-'Saying You don't care about privacy because You have nothing to hide,
-is no different than saying you don't care about free speech because غou have nothing to say!'
+'Saying You don't care about privacy because you have nothing to hide,
+is no different than saying you don't care about free speech because you have nothing to say!'
 
 P.S: I copied this golden quote from someone's github profile (I don't remember their username).
 ```
