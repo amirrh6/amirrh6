@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Amir H., A software engineering **student** from Iran.
+<!-- - 👋 Hi, I’m Amir H., A software engineering **student** from Iran.
 - 💞️ I ♥ finding and reporting bugs and/or suggesting features and discovering [useful repos](https://github.com/amirrh6?tab=stars).
-- 📫 You may reach me at amirrezahh6[at]outlook[dot]com
+- 📫 You may reach me at amirrezahh6[at]outlook[dot]com -->
 
 ```
-'Saying You don't care about privacy because you have nothing to hide,
-is no different than saying you don't care about free speech because you have nothing to say!'
+'Arguing that you don't care about the right to privacy because you have nothing to hide
+is no different than saying you don't care about free speech because you have nothing to say.'
 
-P.S: I copied this golden quote from someone's github profile (I don't remember their username).
+- Sn0wd3n
 ```
-
+<!--
 ---
 
 - * https://github.com/postmanlabs/postman-app-support/issues/8991
@@ -16,3 +16,4 @@ P.S: I copied this golden quote from someone's github profile (I don't remember 
 - * https://github.com/Automattic/mongoose/issues/10607
 - * https://github.com/gildas-lormeau/SingleFile/issues/801#issuecomment-963457980
 - * https://github.com/MicrosoftDocs/WSL/pull/1363
+-->
